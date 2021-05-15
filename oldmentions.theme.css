@@ -2,7 +2,7 @@
 * @name         OldMentions
 * @description  Don't like Discord's new mentions? This theme makes mentions look like how they used to.
 * @author       serge
-* @version      1.0
+* @version      1.1
 */
 
 @import url(https://github.com/notSergebtw/bettermentions/blob/main/betterthemes.theme.css);
@@ -20,5 +20,13 @@ span.mention.wrapper-3WhCwL.mention.interactive {
 }
 
 span.mention.wrapper-3WhCwL.mention.interactive {
+    background-color: unset
+}
+
+span.mention.wrapper-3WhCwL.mention{
+    color: #7289DA
+}
+
+span.mention.wrapper-3WhCwL.mention{
     background-color: unset
 }
